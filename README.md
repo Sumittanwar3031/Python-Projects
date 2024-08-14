@@ -1,1 +1,6 @@
 # Python-Projects
+Layoffs_Data_Analysis
+Firms around the globe are fighting the economic slowdown. The slow consumer spending, higher interest rates by central banks and strong dollars overseas are hinting towards possible recession and tech firms have started laying employees off. This economic slowdown has made many big companies recently fire 13% and more of its workforce, which amounts to more than 11,000+ employees. This dataset helps to look into analyzing recent tech turmoil and discover useful insights.
+
+Uber_Trips_Analysis
+Uber has been a major source of travel for people living in urban areas. Some people don’t have their vehicles while some don’t drive their vehicles intentionally because of their busy schedule. I have used this dataset to draw many patterns like which day has the highest and the lowest trips or the busiest hour for Uber and many other patterns. I have used certain steps and inbuilt fictions to preprocess the data, understand the patterns and relation amongst the features in the dataset to get inferences to draw conclusions. Much more can be done with the dataset if there were more features in the dataset about the people who have made the bookings to understand better and draw better inferences.
